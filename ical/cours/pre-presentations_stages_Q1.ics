@@ -6,23 +6,24 @@ METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:Cours-17047-18-pre-presentations_stages_Q1-Index-Education
-SUMMARY:pre-presentations_stages_Q1 - EGR DNA APO -  - 003
-DTSTAMP:20241211T070200Z
+SUMMARY:pre-presentations_stages_Q1 - EGR CLG DNA APO -  - 003
+DTSTAMP:20241211T103500Z
 DTSTART:20250106T120000Z
 DTEND:20250106T150000Z
 DESCRIPTION:Matière : pré-présentations stages Q1\nEnseignants : EGR - GEOR
-	GES Eric\, DNA - NABET David\, APO - POLLARIS Arnaud\nSalle : 003\n
+	GES Eric\, CLG - LEIGNEL Christine\, DNA - NABET David\, APO - POLLARIS Ar
+	naud\nSalle : 003\n
 LOCATION:003
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-17048-18-pre-presentations_stages_Q1-Index-Education
-SUMMARY:pre-presentations_stages_Q1 - LBC ABE CLG DNA MWA -  - 003
-DTSTAMP:20241211T070200Z
+SUMMARY:pre-presentations_stages_Q1 - LBC ABE DNA MWA -  - 003
+DTSTAMP:20241211T103500Z
 DTSTART:20250108T080000Z
 DTEND:20250108T110000Z
 DESCRIPTION:Matière : pré-présentations stages Q1\nEnseignants : LBC - BEEC
-	KMANS Laurent\, ABE - BELFKIH Abderrahmen\, CLG - LEIGNEL Christine\, DNA 
-	- NABET David\, MWA - WAHID Moussa\nSalle : 003\n
+	KMANS Laurent\, ABE - BELFKIH Abderrahmen\, DNA - NABET David\, MWA - WAHI
+	D Moussa\nSalle : 003\n
 LOCATION:003
 END:VEVENT
 END:VCALENDAR
