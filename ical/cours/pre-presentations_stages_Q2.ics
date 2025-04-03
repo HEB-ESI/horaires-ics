@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-20270-31-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - EFA -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250409T114500Z
+DTEND:20250409T134500Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : EFA - FALKE
+	NAUER Emanuel\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20271-31-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - BCH -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250410T081500Z
+DTEND:20250410T101500Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : BCH - CHOQU
+	ET Benoît\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20272-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - BSC -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250414T061500Z
+DTEND:20250414T081500Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : BSC - SCHIL
+	TZ Benoît\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20273-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - EGR -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250414T083000Z
+DTEND:20250414T103000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : EGR - GEORG
+	ES Eric\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20274-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - SDR -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250414T114500Z
+DTEND:20250414T134500Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : SDR - DROBI
+	SZ Sébastien\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20275-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - LBC -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250414T140000Z
+DTEND:20250414T160000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : LBC - BEECK
+	MANS Laurent\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20276-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - MBA NRI -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250415T061500Z
+DTEND:20250415T081500Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : MBA - BAST
+	REGHI Monica\, NRI - RICHARD Nicolas\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20277-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - ABS -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250415T104500Z
+DTEND:20250415T114500Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : ABS - ABSIL
+	 Romain\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20278-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - BMO -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250416T114500Z
+DTEND:20250416T134500Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : BMO - MOTRY
+	 Bruno\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20279-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - MHI QHB -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250416T140000Z
+DTEND:20250416T160000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : MHI - HADJ
+	ILI Mohamed\, QHB - HOUBEN Quentin\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20280-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - DBO HAL -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250417T061500Z
+DTEND:20250417T081500Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : DBO - BOIG
+	ELOT Denis\, HAL - HALLAL Amine\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20281-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - BEJ -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250417T083000Z
+DTEND:20250417T103000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : BEJ - BELEH
+	O Jonas\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20282-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - SRE -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250417T104500Z
+DTEND:20250417T114500Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : SRE - REXHE
+	P Selim\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20283-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - ABE -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250417T114500Z
+DTEND:20250417T134500Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : ABE - BELFK
+	IH Abderrahmen\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20284-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - CLG NVS MWA -  - 101
+DTSTAMP:20250403T090400Z
+DTSTART:20250417T140000Z
+DTEND:20250417T160000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : CLG - LEIG
+	NEL Christine\, NVS - VANSTEENKISTE Nicolas\, MWA - WAHID Moussa\nSalle : 
+	101\n
+LOCATION:101
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20285-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - ABS -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250418T104500Z
+DTEND:20250418T110000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : ABS - ABSIL
+	 Romain\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-20286-32-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - ZAT MBO -  - 003
+DTSTAMP:20250403T090400Z
+DTSTART:20250418T110000Z
+DTEND:20250418T114500Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : ZAT - ATTA
+	OUIL Zakaria\, MBO - BODIN Morel\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+END:VCALENDAR
