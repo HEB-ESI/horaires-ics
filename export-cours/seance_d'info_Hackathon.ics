@@ -12,7 +12,7 @@ X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de séance d'info Hackathon généré
  rier au 20 mars 2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260212T131900Z
+DTSTAMP:20260212T132649Z
 UID:Ferie-698-seance_d'info_Hackathon-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302
