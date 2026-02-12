@@ -7,12 +7,12 @@ X-CALEND:20260320T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - Matière à préciser - du 02 février au 20 mar
  s 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Matière à préciser généré par l
- e logiciel HP (©INDEX ÉDUCATION) le 09 févr. 2026 - Haute Ecole Bruxelles 
+ e logiciel HP (©INDEX ÉDUCATION) le 12 févr. 2026 - Haute Ecole Bruxelles 
  Brabant - Département Informatique - valable sur la période du 02 février 
  au 20 mars 2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260209T114458Z
+DTSTAMP:20260212T131900Z
 UID:Ferie-698-Matiere_a_preciser-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302

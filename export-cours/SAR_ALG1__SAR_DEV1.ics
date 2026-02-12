@@ -7,12 +7,12 @@ X-CALEND:20260320T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - SAR ALG1 | SAR DEV1 - du 02 février au 20 ma
  rs 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de SAR ALG1 | SAR DEV1 généré par 
- le logiciel HP (©INDEX ÉDUCATION) le 09 févr. 2026 - Haute Ecole Bruxelles
+ le logiciel HP (©INDEX ÉDUCATION) le 12 févr. 2026 - Haute Ecole Bruxelles
   Brabant - Département Informatique - valable sur la période du 02 février
   au 20 mars 2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260209T114458Z
+DTSTAMP:20260212T131900Z
 UID:Ferie-698-SAR_ALG1__SAR_DEV1-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302
