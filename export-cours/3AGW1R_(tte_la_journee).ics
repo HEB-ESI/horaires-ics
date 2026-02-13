@@ -7,12 +7,12 @@ X-CALEND:20260320T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 3AGW1R (tte la journée) - du 02 février au 2
  0 mars 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 3AGW1R (tte la journée) généré 
- par le logiciel HP (©INDEX ÉDUCATION) le 12 févr. 2026 - Haute Ecole Bruxe
+ par le logiciel HP (©INDEX ÉDUCATION) le 13 févr. 2026 - Haute Ecole Bruxe
  lles Brabant - Département Informatique - valable sur la période du 02 fév
  rier au 20 mars 2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260212T132649Z
+DTSTAMP:20260213T165316Z
 UID:Ferie-698-3AGW1R_(tte_la_journee)-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302

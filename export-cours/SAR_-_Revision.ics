@@ -7,12 +7,12 @@ X-CALEND:20260320T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - SAR - Révision - du 02 février au 20 mars 20
  26
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de SAR - Révision généré par le lo
- giciel HP (©INDEX ÉDUCATION) le 12 févr. 2026 - Haute Ecole Bruxelles Brab
+ giciel HP (©INDEX ÉDUCATION) le 13 févr. 2026 - Haute Ecole Bruxelles Brab
  ant - Département Informatique - valable sur la période du 02 février au 2
  0 mars 2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260212T132649Z
+DTSTAMP:20260213T165316Z
 UID:Ferie-698-SAR_-_Revision-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302

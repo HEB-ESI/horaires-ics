@@ -6,12 +6,12 @@ X-CALSTART:20260202T000000Z
 X-CALEND:20260320T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 3OMA1I - du 02 février au 20 mars 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 3OMA1I généré par le logiciel H
- P (©INDEX ÉDUCATION) le 12 févr. 2026 - Haute Ecole Bruxelles Brabant - Dé
+ P (©INDEX ÉDUCATION) le 13 févr. 2026 - Haute Ecole Bruxelles Brabant - Dé
  partement Informatique - valable sur la période du 02 février au 20 mars 2
  026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260212T132649Z
+DTSTAMP:20260213T165316Z
 UID:Ferie-698-3OMA1I-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302
