@@ -6,12 +6,12 @@ X-CALSTART:20260202T000000Z
 X-CALEND:20260320T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 3TRET1TI - du 02 février au 20 mars 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 3TRET1TI généré par le logiciel
-  HP (©INDEX ÉDUCATION) le 13 févr. 2026 - Haute Ecole Bruxelles Brabant - 
+  HP (©INDEX ÉDUCATION) le 16 févr. 2026 - Haute Ecole Bruxelles Brabant - 
  Département Informatique - valable sur la période du 02 février au 20 mars
   2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260213T165316Z
+DTSTAMP:20260216T100316Z
 UID:Ferie-698-3TRET1TI-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302

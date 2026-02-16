@@ -7,12 +7,12 @@ X-CALEND:20260320T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - Réservation de salles - du 02 février au 20 
  mars 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Réservation de salles généré pa
- r le logiciel HP (©INDEX ÉDUCATION) le 13 févr. 2026 - Haute Ecole Bruxell
+ r le logiciel HP (©INDEX ÉDUCATION) le 16 févr. 2026 - Haute Ecole Bruxell
  es Brabant - Département Informatique - valable sur la période du 02 févri
  er au 20 mars 2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260213T165316Z
+DTSTAMP:20260216T100316Z
 UID:Ferie-698-Reservation_de_salles-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302

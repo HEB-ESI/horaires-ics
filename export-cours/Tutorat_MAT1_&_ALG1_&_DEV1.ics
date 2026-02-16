@@ -7,12 +7,12 @@ X-CALEND:20260320T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - Tutorat MAT1 & ALG1 & DEV1 - du 02 février a
  u 20 mars 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Tutorat MAT1 & ALG1 & DEV1 géné
- ré par le logiciel HP (©INDEX ÉDUCATION) le 13 févr. 2026 - Haute Ecole Br
+ ré par le logiciel HP (©INDEX ÉDUCATION) le 16 févr. 2026 - Haute Ecole Br
  uxelles Brabant - Département Informatique - valable sur la période du 02 
  février au 20 mars 2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260213T165316Z
+DTSTAMP:20260216T100316Z
 UID:Ferie-698-Tutorat_MAT1_&_ALG1_&_DEV1-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302
