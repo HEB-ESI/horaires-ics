@@ -7,12 +7,12 @@ X-CALEND:20260320T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - Réunion SAR - Bloc 1 - du 02 février au 20 m
  ars 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Réunion SAR - Bloc 1 généré par
-  le logiciel HP (©INDEX ÉDUCATION) le 16 févr. 2026 - Haute Ecole Bruxelle
+  le logiciel HP (©INDEX ÉDUCATION) le 17 févr. 2026 - Haute Ecole Bruxelle
  s Brabant - Département Informatique - valable sur la période du 02 févrie
  r au 20 mars 2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260216T100316Z
+DTSTAMP:20260217T100947Z
 LAST-MODIFIED:20260109T132256Z
 UID:Cours-25176-21-Reunion_SAR_-_Bloc_1-Index-Education
 DTSTART:20260202T114500Z
@@ -25,7 +25,7 @@ X-ALT-DESC;FMTTYPE=text/html:Matière : Réunion SAR - Bloc 1<br/>Enseignant
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260216T100316Z
+DTSTAMP:20260217T100947Z
 UID:Ferie-698-Reunion_SAR_-_Bloc_1-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302

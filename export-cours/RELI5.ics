@@ -6,12 +6,12 @@ X-CALSTART:20260202T000000Z
 X-CALEND:20260320T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - RELI5 - du 02 février au 20 mars 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de RELI5 généré par le logiciel HP
-  (©INDEX ÉDUCATION) le 16 févr. 2026 - Haute Ecole Bruxelles Brabant - Dép
+  (©INDEX ÉDUCATION) le 17 févr. 2026 - Haute Ecole Bruxelles Brabant - Dép
  artement Informatique - valable sur la période du 02 février au 20 mars 20
  26 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260216T100316Z
+DTSTAMP:20260217T100947Z
 UID:Ferie-698-RELI5-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302

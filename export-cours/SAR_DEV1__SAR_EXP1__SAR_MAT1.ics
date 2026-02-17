@@ -7,12 +7,12 @@ X-CALEND:20260320T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - SAR DEV1 | SAR EXP1 | SAR MAT1 - du 02 févri
  er au 20 mars 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de SAR DEV1 | SAR EXP1 | SAR MAT1 
- généré par le logiciel HP (©INDEX ÉDUCATION) le 16 févr. 2026 - Haute Ecol
+ généré par le logiciel HP (©INDEX ÉDUCATION) le 17 févr. 2026 - Haute Ecol
  e Bruxelles Brabant - Département Informatique - valable sur la période du
   02 février au 20 mars 2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260216T100316Z
+DTSTAMP:20260217T100947Z
 UID:Ferie-698-SAR_DEV1__SAR_EXP1__SAR_MAT1-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302
