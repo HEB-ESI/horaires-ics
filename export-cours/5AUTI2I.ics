@@ -6,12 +6,12 @@ X-CALSTART:20260202T000000Z
 X-CALEND:20260320T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 5AUTI2I - du 02 février au 20 mars 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 5AUTI2I généré par le logiciel 
- HP (©INDEX ÉDUCATION) le 17 févr. 2026 - Haute Ecole Bruxelles Brabant - D
+ HP (©INDEX ÉDUCATION) le 19 févr. 2026 - Haute Ecole Bruxelles Brabant - D
  épartement Informatique - valable sur la période du 02 février au 20 mars 
  2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260217T100947Z
+DTSTAMP:20260219T143406Z
 UID:Ferie-698-5AUTI2I-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302
