@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-27726-35-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - JDK EFA - E111 E112 E121 E122 E211 E2
+	12 E311 - 003
+DTSTAMP:20260323T112200Z
+DTSTART:20260513T073000Z
+DTEND:20260513T103000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : JDK - DEKE
+	YSER Justin\, EFA - FALKENAUER Emanuel\nTD : E111\, E112\, E121\, E122\, E
+	211\, E212\, E311\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27728-35-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - AEL NVS -  - 003
+DTSTAMP:20260323T112200Z
+DTSTART:20260513T113000Z
+DTEND:20260513T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : AEL - EL H
+	AMAN Abdeselam\, NVS - VANSTEENKISTE Nicolas\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27729-35-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - BIS CUV -  - 101
+DTSTAMP:20260323T112200Z
+DTSTART:20260513T113000Z
+DTEND:20260513T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : BIS - BISC
+	HOP Patrick\, CUV - CUVELIER Geneviève\nSalle : 101\n
+LOCATION:101
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27730-35-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - MBO MCD -  - 004
+DTSTAMP:20260323T112200Z
+DTSTART:20260513T113000Z
+DTEND:20260513T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : MBO - BODI
+	N Morel\, MCD - CODUTTI Marco\nSalle : 004\n
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27731-35-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - LBC SDR -  - 102
+DTSTAMP:20260323T112200Z
+DTSTART:20260513T113000Z
+DTEND:20260513T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : LBC - BEEC
+	KMANS Laurent\, SDR - DROBISZ Sébastien\nSalle : 102\n
+LOCATION:102
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27732-35-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - BMO BSC -  - 105
+DTSTAMP:20260323T112200Z
+DTSTART:20260513T113000Z
+DTEND:20260513T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : BMO - MOTR
+	Y Bruno\, BSC - SCHILTZ Benoît\nSalle : 105\n
+LOCATION:105
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27733-35-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - PBT SRV -  - 201
+DTSTAMP:20260323T112200Z
+DTSTART:20260513T113000Z
+DTEND:20260513T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : PBT - BETT
+	ENS Pierre\, SRV - SERVAIS Frédéric\nSalle : 201\n
+LOCATION:201
+END:VEVENT
+END:VCALENDAR
