@@ -12,7 +12,111 @@ X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de pré-présentations stages Q2 gén
  février au 15 mai 2026 - Semaines : semaine 6 - 20
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260323T095934Z
+DTSTAMP:20260323T112133Z
+LAST-MODIFIED:20260323T110500Z
+UID:Cours-27726-35-pre-presentations_stages_Q2-Index-Education
+DTSTART:20260513T073000Z
+DTEND:20260513T103000Z
+SUMMARY;LANGUAGE=fr:pré-présentations stages Q2 - JDK - DEKEYSER Justin\, E
+ FA - FALKENAUER Emanuel - E111\, E112\, E121\, E122\, E211\, E212\, E311
+DESCRIPTION;LANGUAGE=fr:Matière : pré-présentations stages Q2\nEnseignants 
+ : JDK - DEKEYSER Justin\, EFA - FALKENAUER Emanuel\nTD : E111\, E112\, E12
+ 1\, E122\, E211\, E212\, E311\nSalle : 003\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : pré-présentations stages Q2<br/>Ense
+ ignants : JDK - DEKEYSER Justin\, EFA - FALKENAUER Emanuel<br/>TD : E111\,
+  E112\, E121\, E122\, E211\, E212\, E311<br/>Salle : 003<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260323T112133Z
+LAST-MODIFIED:20260323T110838Z
+UID:Cours-27728-35-pre-presentations_stages_Q2-Index-Education
+DTSTART:20260513T113000Z
+DTEND:20260513T143000Z
+SUMMARY;LANGUAGE=fr:pré-présentations stages Q2 - AEL - EL HAMAN Abdeselam\
+ , NVS - VANSTEENKISTE Nicolas
+DESCRIPTION;LANGUAGE=fr:Matière : pré-présentations stages Q2\nEnseignants 
+ : AEL - EL HAMAN Abdeselam\, NVS - VANSTEENKISTE Nicolas\nSalle : 003\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : pré-présentations stages Q2<br/>Ense
+ ignants : AEL - EL HAMAN Abdeselam\, NVS - VANSTEENKISTE Nicolas<br/>Salle
+  : 003<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260323T112133Z
+LAST-MODIFIED:20260323T110918Z
+UID:Cours-27729-35-pre-presentations_stages_Q2-Index-Education
+DTSTART:20260513T113000Z
+DTEND:20260513T143000Z
+SUMMARY;LANGUAGE=fr:pré-présentations stages Q2 - BIS - BISCHOP Patrick\, C
+ UV - CUVELIER Geneviève
+DESCRIPTION;LANGUAGE=fr:Matière : pré-présentations stages Q2\nEnseignants 
+ : BIS - BISCHOP Patrick\, CUV - CUVELIER Geneviève\nSalle : 101\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : pré-présentations stages Q2<br/>Ense
+ ignants : BIS - BISCHOP Patrick\, CUV - CUVELIER Geneviève<br/>Salle : 101
+ <br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260323T112133Z
+LAST-MODIFIED:20260323T110957Z
+UID:Cours-27730-35-pre-presentations_stages_Q2-Index-Education
+DTSTART:20260513T113000Z
+DTEND:20260513T143000Z
+SUMMARY;LANGUAGE=fr:pré-présentations stages Q2 - MBO - BODIN Morel\, MCD -
+  CODUTTI Marco
+DESCRIPTION;LANGUAGE=fr:Matière : pré-présentations stages Q2\nEnseignants 
+ : MBO - BODIN Morel\, MCD - CODUTTI Marco\nSalle : 004\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : pré-présentations stages Q2<br/>Ense
+ ignants : MBO - BODIN Morel\, MCD - CODUTTI Marco<br/>Salle : 004<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260323T112133Z
+LAST-MODIFIED:20260323T111055Z
+UID:Cours-27731-35-pre-presentations_stages_Q2-Index-Education
+DTSTART:20260513T113000Z
+DTEND:20260513T143000Z
+SUMMARY;LANGUAGE=fr:pré-présentations stages Q2 - LBC - BEECKMANS Laurent\,
+  SDR - DROBISZ Sébastien
+DESCRIPTION;LANGUAGE=fr:Matière : pré-présentations stages Q2\nEnseignants 
+ : LBC - BEECKMANS Laurent\, SDR - DROBISZ Sébastien\nSalle : 102\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : pré-présentations stages Q2<br/>Ense
+ ignants : LBC - BEECKMANS Laurent\, SDR - DROBISZ Sébastien<br/>Salle : 10
+ 2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260323T112133Z
+LAST-MODIFIED:20260323T111148Z
+UID:Cours-27732-35-pre-presentations_stages_Q2-Index-Education
+DTSTART:20260513T113000Z
+DTEND:20260513T143000Z
+SUMMARY;LANGUAGE=fr:pré-présentations stages Q2 - BMO - MOTRY Bruno\, BSC -
+  SCHILTZ Benoît
+DESCRIPTION;LANGUAGE=fr:Matière : pré-présentations stages Q2\nEnseignants 
+ : BMO - MOTRY Bruno\, BSC - SCHILTZ Benoît\nSalle : 105\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : pré-présentations stages Q2<br/>Ense
+ ignants : BMO - MOTRY Bruno\, BSC - SCHILTZ Benoît<br/>Salle : 105<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260323T112133Z
+LAST-MODIFIED:20260323T111237Z
+UID:Cours-27733-35-pre-presentations_stages_Q2-Index-Education
+DTSTART:20260513T113000Z
+DTEND:20260513T143000Z
+SUMMARY;LANGUAGE=fr:pré-présentations stages Q2 - PBT - BETTENS Pierre\, SR
+ V - SERVAIS Frédéric
+DESCRIPTION;LANGUAGE=fr:Matière : pré-présentations stages Q2\nEnseignants 
+ : PBT - BETTENS Pierre\, SRV - SERVAIS Frédéric\nSalle : 201\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : pré-présentations stages Q2<br/>Ense
+ ignants : PBT - BETTENS Pierre\, SRV - SERVAIS Frédéric<br/>Salle : 201<br
+ />
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260323T112133Z
 UID:Ferie-698-pre-presentations_stages_Q2-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302
@@ -20,7 +124,7 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260323T095934Z
+DTSTAMP:20260323T112133Z
 UID:Ferie-699-pre-presentations_stages_Q2-Index-Education
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260407
@@ -28,7 +132,7 @@ SUMMARY;LANGUAGE=fr:Férié
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260323T095934Z
+DTSTAMP:20260323T112133Z
 UID:Ferie-700-pre-presentations_stages_Q2-Index-Education
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260511
@@ -36,7 +140,7 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260323T095934Z
+DTSTAMP:20260323T112133Z
 UID:Ferie-701-pre-presentations_stages_Q2-Index-Education
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
