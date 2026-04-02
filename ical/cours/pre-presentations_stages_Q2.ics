@@ -5,10 +5,19 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+UID:Cours-27714-36-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - BCH -  - 
+DTSTAMP:20260402T113400Z
+DTSTART:20260518T070000Z
+DTEND:20260518T100000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : BCH - CHOQU
+	ET Benoît\n
+END:VEVENT
+BEGIN:VEVENT
 UID:Cours-27726-35-pre-presentations_stages_Q2-Index-Education
 SUMMARY:pre-presentations_stages_Q2 - JDK EFA - E111 E112 E121 E122 E211 E2
 	12 E311 - 003
-DTSTAMP:20260327T085700Z
+DTSTAMP:20260402T113400Z
 DTSTART:20260513T073000Z
 DTEND:20260513T103000Z
 DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : JDK - DEKE
@@ -19,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-27728-35-pre-presentations_stages_Q2-Index-Education
 SUMMARY:pre-presentations_stages_Q2 - AEL NVS -  - 003
-DTSTAMP:20260327T085700Z
+DTSTAMP:20260402T113400Z
 DTSTART:20260513T113000Z
 DTEND:20260513T143000Z
 DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : AEL - EL H
@@ -29,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-27729-35-pre-presentations_stages_Q2-Index-Education
 SUMMARY:pre-presentations_stages_Q2 - BIS CUV -  - 101
-DTSTAMP:20260327T085700Z
+DTSTAMP:20260402T113400Z
 DTSTART:20260513T113000Z
 DTEND:20260513T143000Z
 DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : BIS - BISC
@@ -39,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-27730-35-pre-presentations_stages_Q2-Index-Education
 SUMMARY:pre-presentations_stages_Q2 - MBO MCD -  - 004
-DTSTAMP:20260327T085700Z
+DTSTAMP:20260402T113400Z
 DTSTART:20260513T113000Z
 DTEND:20260513T143000Z
 DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : MBO - BODI
@@ -49,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-27731-35-pre-presentations_stages_Q2-Index-Education
 SUMMARY:pre-presentations_stages_Q2 - LBC SDR -  - 102
-DTSTAMP:20260327T085700Z
+DTSTAMP:20260402T113400Z
 DTSTART:20260513T113000Z
 DTEND:20260513T143000Z
 DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : LBC - BEEC
@@ -59,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-27732-35-pre-presentations_stages_Q2-Index-Education
 SUMMARY:pre-presentations_stages_Q2 - BMO BSC -  - 105
-DTSTAMP:20260327T085700Z
+DTSTAMP:20260402T113400Z
 DTSTART:20260513T073000Z
 DTEND:20260513T103000Z
 DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : BMO - MOTR
@@ -69,11 +78,91 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-27733-35-pre-presentations_stages_Q2-Index-Education
 SUMMARY:pre-presentations_stages_Q2 - PBT SRV -  - 201
-DTSTAMP:20260327T085700Z
+DTSTAMP:20260402T113400Z
 DTSTART:20260513T113000Z
 DTEND:20260513T143000Z
 DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : PBT - BETT
 	ENS Pierre\, SRV - SERVAIS Frédéric\nSalle : 201\n
 LOCATION:201
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27734-36-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - MHI TNI MWA -  - 003
+DTSTAMP:20260402T113400Z
+DTSTART:20260518T113000Z
+DTEND:20260518T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : MHI - HADJ
+	ILI Mohamed\, TNI - NICODEME Thibaut\, MWA - WAHID Moussa\nSalle : 003\n
+LOCATION:003
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27735-36-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - ABE JLC -  - 004
+DTSTAMP:20260402T113400Z
+DTSTART:20260518T113000Z
+DTEND:20260518T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : ABE - BELF
+	KIH Abderrahmen\, JLC - LECHIEN Jonathan\nSalle : 004\n
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27736-36-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - ABS CLG -  - 101
+DTSTAMP:20260402T113400Z
+DTSTART:20260518T113000Z
+DTEND:20260518T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : ABS - ABSI
+	L Romain\, CLG - LEIGNEL Christine\nSalle : 101\n
+LOCATION:101
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27737-36-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - MBA APO -  - 102
+DTSTAMP:20260402T113400Z
+DTSTART:20260518T113000Z
+DTEND:20260518T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : MBA - BAST
+	REGHI Monica\, APO - POLLARIS Arnaud\nSalle : 102\n
+LOCATION:102
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27738-36-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - AWA HAL -  - 105
+DTSTAMP:20260402T113400Z
+DTSTART:20260518T113000Z
+DTEND:20260518T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : AWA - AHME
+	D Wassim\, HAL - HALLAL Amine\nSalle : 105\n
+LOCATION:105
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27739-36-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - DBO DPP -  - 201
+DTSTAMP:20260402T113400Z
+DTSTART:20260518T113000Z
+DTEND:20260518T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : DBO - BOIG
+	ELOT Denis\, DPP - PAPADIMITRIOU Dimitrios\nSalle : 201\n
+LOCATION:201
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27740-36-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - ZAT MSA -  - 202
+DTSTAMP:20260402T113400Z
+DTSTART:20260518T113000Z
+DTEND:20260518T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignants : ZAT - ATTA
+	OUIL Zakaria\, MSA - SASSOLAS Mathieu\nSalle : 202\n
+LOCATION:202
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-27741-36-pre-presentations_stages_Q2-Index-Education
+SUMMARY:pre-presentations_stages_Q2 - ROU -  - 203
+DTSTAMP:20260402T113400Z
+DTSTART:20260518T113000Z
+DTEND:20260518T143000Z
+DESCRIPTION:Matière : pré-présentations stages Q2\nEnseignant : ROU - OUESL
+	ATI Rami\nSalle : 203\n
+LOCATION:203
 END:VEVENT
 END:VCALENDAR
