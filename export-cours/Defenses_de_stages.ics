@@ -3,16 +3,121 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
 X-CALSTART:20260202T000000Z
-X-CALEND:20260515T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - Défenses de stages - du 02 février au 15 mai
-  2026
+X-CALEND:20260626T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - Défenses de stages - du 02 février au 26 jui
+ n 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Défenses de stages généré par l
- e logiciel HP (©INDEX ÉDUCATION) le 27 mars 2026 - Haute Ecole Bruxelles B
+ e logiciel HP (©INDEX ÉDUCATION) le 02 avr. 2026 - Haute Ecole Bruxelles B
  rabant - Département Informatique - valable sur la période du 02 février a
- u 15 mai 2026 - Semaines : semaine 6 - 20
+ u 26 juin 2026 - Semaines : semaine 6 - 26
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260327T085622Z
+DTSTAMP:20260402T113341Z
+LAST-MODIFIED:20260311T115642Z
+UID:Cours-27652-40-Defenses_de_stages-Index-Education
+DTSTART:20260615T070000Z
+DTEND:20260615T110000Z
+SUMMARY;LANGUAGE=fr:Défenses de stages - AWA - AHMED Wassim\, ZAT - ATTAOUI
+ L Zakaria\, MBA - BASTREGHI Monica\, LBC - BEECKMANS Laurent\, ABE - BELFK
+ IH Abderrahmen\, PBT - BETTENS Pierre\, BIS - BISCHOP Patrick\, MBO - BODI
+ N Morel\, DBO - BOIGELOT Denis\, BCH - CHOQUET Benoît\, MCD - CODUTTI Marc
+ o\, CUV - CUVELIER Geneviève\, JDK - DEKEYSER Justin\, JDS - DOSSOGNE Jérô
+ me\, SDR - DROBISZ Sébastien\, FDU - DUBOISSE Franck\, AEL - EL HAMAN Abde
+ selam\, EFA - FALKENAUER Emanuel\, MHI - HADJILI Mohamed\, HAL - HALLAL Am
+ ine\, QHB - HOUBEN Quentin\, JLC - LECHIEN Jonathan\, CLG - LEIGNEL Christ
+ ine\, AMT - MOKHTARI Amine\, BMO - MOTRY Bruno\, DNA - NABET David\, TNI -
+  NICODEME Thibaut\, ROU - OUESLATI Rami\, DPP - PAPADIMITRIOU Dimitrios\, 
+ APO - POLLARIS Arnaud\, SRE - REXHEP Selim\, NRI - RICHARD Nicolas\, ARO -
+  ROUSSEAU Anne\, MSA - SASSOLAS Mathieu\, BSC - SCHILTZ Benoît\, NVS - VAN
+ STEENKISTE Nicolas\, MWA - WAHID Moussa - E111\, E112\, E121\, E122\, E211
+ \, E212\, E311
+DESCRIPTION;LANGUAGE=fr:Matière : Défenses de stages\nEnseignants : AWA - A
+ HMED Wassim\, ZAT - ATTAOUIL Zakaria\, MBA - BASTREGHI Monica\, LBC - BEEC
+ KMANS Laurent\, ABE - BELFKIH Abderrahmen\, PBT - BETTENS Pierre\, BIS - B
+ ISCHOP Patrick\, MBO - BODIN Morel\, DBO - BOIGELOT Denis\, BCH - CHOQUET 
+ Benoît\, MCD - CODUTTI Marco\, CUV - CUVELIER Geneviève\, JDK - DEKEYSER J
+ ustin\, JDS - DOSSOGNE Jérôme\, SDR - DROBISZ Sébastien\, FDU - DUBOISSE F
+ ranck\, AEL - EL HAMAN Abdeselam\, EFA - FALKENAUER Emanuel\, MHI - HADJIL
+ I Mohamed\, HAL - HALLAL Amine\, QHB - HOUBEN Quentin\, JLC - LECHIEN Jona
+ than\, CLG - LEIGNEL Christine\, AMT - MOKHTARI Amine\, BMO - MOTRY Bruno\
+ , DNA - NABET David\, TNI - NICODEME Thibaut\, ROU - OUESLATI Rami\, DPP -
+  PAPADIMITRIOU Dimitrios\, APO - POLLARIS Arnaud\, SRE - REXHEP Selim\, NR
+ I - RICHARD Nicolas\, ARO - ROUSSEAU Anne\, MSA - SASSOLAS Mathieu\, BSC -
+  SCHILTZ Benoît\, NVS - VANSTEENKISTE Nicolas\, MWA - WAHID Moussa\nTD : E
+ 111\, E112\, E121\, E122\, E211\, E212\, E311\nSalles : 003\, 004\, 101\, 
+ 102\, 105\, 201\, 202\, 203\, 306\, 405\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Défenses de stages<br/>Enseignants :
+  AWA - AHMED Wassim\, ZAT - ATTAOUIL Zakaria\, MBA - BASTREGHI Monica\, LB
+ C - BEECKMANS Laurent\, ABE - BELFKIH Abderrahmen\, PBT - BETTENS Pierre\,
+  BIS - BISCHOP Patrick\, MBO - BODIN Morel\, DBO - BOIGELOT Denis\, BCH - 
+ CHOQUET Benoît\, MCD - CODUTTI Marco\, CUV - CUVELIER Geneviève\, JDK - DE
+ KEYSER Justin\, JDS - DOSSOGNE Jérôme\, SDR - DROBISZ Sébastien\, FDU - DU
+ BOISSE Franck\, AEL - EL HAMAN Abdeselam\, EFA - FALKENAUER Emanuel\, MHI 
+ - HADJILI Mohamed\, HAL - HALLAL Amine\, QHB - HOUBEN Quentin\, JLC - LECH
+ IEN Jonathan\, CLG - LEIGNEL Christine\, AMT - MOKHTARI Amine\, BMO - MOTR
+ Y Bruno\, DNA - NABET David\, TNI - NICODEME Thibaut\, ROU - OUESLATI Rami
+ \, DPP - PAPADIMITRIOU Dimitrios\, APO - POLLARIS Arnaud\, SRE - REXHEP Se
+ lim\, NRI - RICHARD Nicolas\, ARO - ROUSSEAU Anne\, MSA - SASSOLAS Mathieu
+ \, BSC - SCHILTZ Benoît\, NVS - VANSTEENKISTE Nicolas\, MWA - WAHID Moussa
+ <br/>TD : E111\, E112\, E121\, E122\, E211\, E212\, E311<br/>Salles : 003\
+ , 004\, 101\, 102\, 105\, 201\, 202\, 203\, 306\, 405<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260402T113341Z
+LAST-MODIFIED:20260311T115643Z
+UID:Cours-27653-40-Defenses_de_stages-Index-Education
+DTSTART:20260616T070000Z
+DTEND:20260616T110000Z
+SUMMARY;LANGUAGE=fr:Défenses de stages - ABS - ABSIL Romain\, AWA - AHMED W
+ assim\, ZAT - ATTAOUIL Zakaria\, MBA - BASTREGHI Monica\, LBC - BEECKMANS 
+ Laurent\, ABE - BELFKIH Abderrahmen\, PBT - BETTENS Pierre\, BIS - BISCHOP
+  Patrick\, MBO - BODIN Morel\, DBO - BOIGELOT Denis\, BCH - CHOQUET Benoît
+ \, MCD - CODUTTI Marco\, CUV - CUVELIER Geneviève\, JDK - DEKEYSER Justin\
+ , JDS - DOSSOGNE Jérôme\, SDR - DROBISZ Sébastien\, FDU - DUBOISSE Franck\
+ , AEL - EL HAMAN Abdeselam\, EFA - FALKENAUER Emanuel\, MHI - HADJILI Moha
+ med\, HAL - HALLAL Amine\, QHB - HOUBEN Quentin\, JLC - LECHIEN Jonathan\,
+  CLG - LEIGNEL Christine\, AMT - MOKHTARI Amine\, BMO - MOTRY Bruno\, DNA 
+ - NABET David\, TNI - NICODEME Thibaut\, ROU - OUESLATI Rami\, DPP - PAPAD
+ IMITRIOU Dimitrios\, APO - POLLARIS Arnaud\, SRE - REXHEP Selim\, NRI - RI
+ CHARD Nicolas\, ARO - ROUSSEAU Anne\, MSA - SASSOLAS Mathieu\, BSC - SCHIL
+ TZ Benoît\, NVS - VANSTEENKISTE Nicolas\, MWA - WAHID Moussa - E111\, E112
+ \, E121\, E122\, E211\, E212\, E311
+DESCRIPTION;LANGUAGE=fr:Matière : Défenses de stages\nEnseignants : ABS - A
+ BSIL Romain\, AWA - AHMED Wassim\, ZAT - ATTAOUIL Zakaria\, MBA - BASTREGH
+ I Monica\, LBC - BEECKMANS Laurent\, ABE - BELFKIH Abderrahmen\, PBT - BET
+ TENS Pierre\, BIS - BISCHOP Patrick\, MBO - BODIN Morel\, DBO - BOIGELOT D
+ enis\, BCH - CHOQUET Benoît\, MCD - CODUTTI Marco\, CUV - CUVELIER Geneviè
+ ve\, JDK - DEKEYSER Justin\, JDS - DOSSOGNE Jérôme\, SDR - DROBISZ Sébasti
+ en\, FDU - DUBOISSE Franck\, AEL - EL HAMAN Abdeselam\, EFA - FALKENAUER E
+ manuel\, MHI - HADJILI Mohamed\, HAL - HALLAL Amine\, QHB - HOUBEN Quentin
+ \, JLC - LECHIEN Jonathan\, CLG - LEIGNEL Christine\, AMT - MOKHTARI Amine
+ \, BMO - MOTRY Bruno\, DNA - NABET David\, TNI - NICODEME Thibaut\, ROU - 
+ OUESLATI Rami\, DPP - PAPADIMITRIOU Dimitrios\, APO - POLLARIS Arnaud\, SR
+ E - REXHEP Selim\, NRI - RICHARD Nicolas\, ARO - ROUSSEAU Anne\, MSA - SAS
+ SOLAS Mathieu\, BSC - SCHILTZ Benoît\, NVS - VANSTEENKISTE Nicolas\, MWA -
+  WAHID Moussa\nTD : E111\, E112\, E121\, E122\, E211\, E212\, E311\nSalles
+  : 003\, 004\, 101\, 102\, 105\, 201\, 202\, 203\, 306\, 405\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Défenses de stages<br/>Enseignants :
+  ABS - ABSIL Romain\, AWA - AHMED Wassim\, ZAT - ATTAOUIL Zakaria\, MBA - 
+ BASTREGHI Monica\, LBC - BEECKMANS Laurent\, ABE - BELFKIH Abderrahmen\, P
+ BT - BETTENS Pierre\, BIS - BISCHOP Patrick\, MBO - BODIN Morel\, DBO - BO
+ IGELOT Denis\, BCH - CHOQUET Benoît\, MCD - CODUTTI Marco\, CUV - CUVELIER
+  Geneviève\, JDK - DEKEYSER Justin\, JDS - DOSSOGNE Jérôme\, SDR - DROBISZ
+  Sébastien\, FDU - DUBOISSE Franck\, AEL - EL HAMAN Abdeselam\, EFA - FALK
+ ENAUER Emanuel\, MHI - HADJILI Mohamed\, HAL - HALLAL Amine\, QHB - HOUBEN
+  Quentin\, JLC - LECHIEN Jonathan\, CLG - LEIGNEL Christine\, AMT - MOKHTA
+ RI Amine\, BMO - MOTRY Bruno\, DNA - NABET David\, TNI - NICODEME Thibaut\
+ , ROU - OUESLATI Rami\, DPP - PAPADIMITRIOU Dimitrios\, APO - POLLARIS Arn
+ aud\, SRE - REXHEP Selim\, NRI - RICHARD Nicolas\, ARO - ROUSSEAU Anne\, M
+ SA - SASSOLAS Mathieu\, BSC - SCHILTZ Benoît\, NVS - VANSTEENKISTE Nicolas
+ \, MWA - WAHID Moussa<br/>TD : E111\, E112\, E121\, E122\, E211\, E212\, E
+ 311<br/>Salles : 003\, 004\, 101\, 102\, 105\, 201\, 202\, 203\, 306\, 405
+ <br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260402T113341Z
 UID:Ferie-698-Defenses_de_stages-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302
@@ -20,7 +125,7 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260327T085622Z
+DTSTAMP:20260402T113341Z
 UID:Ferie-699-Defenses_de_stages-Index-Education
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260407
@@ -28,7 +133,7 @@ SUMMARY;LANGUAGE=fr:Férié
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260327T085622Z
+DTSTAMP:20260402T113341Z
 UID:Ferie-700-Defenses_de_stages-Index-Education
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260511
@@ -36,10 +141,18 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260327T085622Z
+DTSTAMP:20260402T113341Z
 UID:Ferie-701-Defenses_de_stages-Index-Education
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260402T113341Z
+UID:Ferie-702-Defenses_de_stages-Index-Education
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
 SUMMARY;LANGUAGE=fr:Férié
 END:VEVENT
 END:VCALENDAR
