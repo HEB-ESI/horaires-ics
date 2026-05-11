@@ -4,15 +4,16 @@ PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
 X-CALSTART:20260202T000000Z
 X-CALEND:20260814T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - 1SAR  A/E - du 02 février au 14 août 2026
-X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 1SAR  A/E généré par le logicie
- l HP (©INDEX ÉDUCATION) le 11 mai 2026 - Haute Ecole Bruxelles Brabant - D
- épartement Informatique - valable sur la période du 02 février au 14 août 
- 2026 - Semaines : semaine 6 - 33
+X-WR-CALNAME;LANGUAGE=fr:HYP - Examens oraux sur rendez-vous - du 02 févrie
+ r au 14 août 2026
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Examens oraux sur rendez-vous g
+ énéré par le logiciel HP (©INDEX ÉDUCATION) le 11 mai 2026 - Haute Ecole B
+ ruxelles Brabant - Département Informatique - valable sur la période du 02
+  février au 14 août 2026 - Semaines : semaine 6 - 33
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
 DTSTAMP:20260511T080951Z
-UID:Ferie-698-1SAR__AE-Index-Education
+UID:Ferie-698-Examens_oraux_sur_rendez-vous-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302
 SUMMARY;LANGUAGE=fr:Vacances
@@ -20,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
 DTSTAMP:20260511T080951Z
-UID:Ferie-699-1SAR__AE-Index-Education
+UID:Ferie-699-Examens_oraux_sur_rendez-vous-Index-Education
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260407
 SUMMARY;LANGUAGE=fr:Férié
@@ -28,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
 DTSTAMP:20260511T080951Z
-UID:Ferie-700-1SAR__AE-Index-Education
+UID:Ferie-700-Examens_oraux_sur_rendez-vous-Index-Education
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260511
 SUMMARY;LANGUAGE=fr:Vacances
@@ -36,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
 DTSTAMP:20260511T080951Z
-UID:Ferie-701-1SAR__AE-Index-Education
+UID:Ferie-701-Examens_oraux_sur_rendez-vous-Index-Education
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY;LANGUAGE=fr:Férié
@@ -44,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
 DTSTAMP:20260511T080951Z
-UID:Ferie-702-1SAR__AE-Index-Education
+UID:Ferie-702-Examens_oraux_sur_rendez-vous-Index-Education
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY;LANGUAGE=fr:Férié
@@ -52,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
 DTSTAMP:20260511T080951Z
-UID:Ferie-703-1SAR__AE-Index-Education
+UID:Ferie-703-Examens_oraux_sur_rendez-vous-Index-Education
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260815
 SUMMARY;LANGUAGE=fr:Vacances
