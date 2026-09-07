@@ -51,7 +51,7 @@ fs.readFile(eventsJsonFile, 'utf-8', (err, data) => {
    and for each of them we add the event as an ics value. 
   */
   events.forEach(event => {
-    ["groupes", "salles", "cours"].forEach((type) => {
+    ["profs", "groupes", "salles", "cours"].forEach((type) => {
 
       if (!event[type]) return // parfois il n'y a pas de groupe, par exemple (M1-cyber)
       for (let thing of event[type]) {
@@ -111,10 +111,13 @@ function generateIcss(list, type) {
       items.push(item)
     })
   }
+
+if (type !== "profs") { // temp hack
   config.data[type] = { //add itemList (les profs, les cours...) to config
     name: { "profs": "enseignants" }[type] ?? type,
     items: items.sort((a, b) => (a.code.localeCompare(b.code)))
   }
+}
 
 }
 
