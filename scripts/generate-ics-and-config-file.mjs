@@ -51,7 +51,7 @@ fs.readFile(eventsJsonFile, 'utf-8', (err, data) => {
    and for each of them we add the event as an ics value. 
   */
   events.forEach(event => {
-    ["profs", "groupes", "salles", "cours"].forEach((type) => {
+    ["groupes", "salles", "cours"].forEach((type) => {
 
       if (!event[type]) return // parfois il n'y a pas de groupe, par exemple (M1-cyber)
       for (let thing of event[type]) {
