@@ -111,13 +111,10 @@ function generateIcss(list, type) {
       items.push(item)
     })
   }
-
-if (type !== "profs") { // temp hack
   config.data[type] = { //add itemList (les profs, les cours...) to config
     name: { "profs": "enseignants" }[type] ?? type,
     items: items.sort((a, b) => (a.code.localeCompare(b.code)))
   }
-}
 
 }
 
@@ -153,7 +150,7 @@ function addEvent(listIn, map, icsEvent) {
  */
 function getIcsEvent(event, type) {
   const groupes = LIST_FORMATTER.format(event.groupes?.map(groupe => groupe.name))
-  const profs = "?" // LIST_FORMATTER.format(event.profs?.map(prof => prof.code))
+  const profs = LIST_FORMATTER.format(event.profs?.map(prof => prof.code))
   const salles = LIST_FORMATTER.format(event.salles?.map(salle => salle.name) || "")
   const aa = LIST_FORMATTER.format(event.cours?.map(cours => cours.name))
 
