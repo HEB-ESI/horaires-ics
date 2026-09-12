@@ -3,39 +3,39 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
 X-CALSTART:20260914T000000Z
-X-CALEND:20261031T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - Master SSD&WS - du 14 septembre au 31 octobr
- e 2026
+X-CALEND:20261107T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - Master SSD&WS - du 14 septembre au 07 novemb
+ re 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Master SSD&WS généré par le log
- iciel HP (©INDEX ÉDUCATION) le 07 sept. 2026 - Haute Ecole Bruxelles Braba
+ iciel HP (©INDEX ÉDUCATION) le 12 sept. 2026 - Haute Ecole Bruxelles Braba
  nt - Département Informatique - valable sur la période du 14 septembre au 
- 31 octobre 2026 - Semaines : semaine 38 - 44
+ 07 novembre 2026 - Semaines : semaine 38 - 45
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260907T082610Z
+DTSTAMP:20260912T101749Z
 LAST-MODIFIED:20260814T145426Z
 UID:Cours-1127-1-Master_SSD&WS-Index-Education
 DTSTART:20260917T083000Z
 DTEND:20260917T103000Z
 SUMMARY;LANGUAGE=fr:Master SSD&WS - ABSIL
 LOCATION;LANGUAGE=fr:003
-DESCRIPTION;LANGUAGE=fr:Matière : Master SSD&WS\nEnseignant : ABS - ABSIL R
- omain\nSalle : 003\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : Master SSD&WS<br/>Enseignant : ABS -
-  ABSIL Romain<br/>Salle : 003<br/>
+DESCRIPTION;LANGUAGE=fr:Matière : Master SSD&WS\nEnseignant : ABSIL\nSalle 
+ : 003\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Master SSD&WS<br/>Enseignant : ABSIL
+ <br/>Salle : 003<br/>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260907T082610Z
+DTSTAMP:20260912T101749Z
 LAST-MODIFIED:20260814T145426Z
 UID:Cours-1128-1-Master_SSD&WS-Index-Education
 DTSTART:20260917T061500Z
 DTEND:20260917T081500Z
 SUMMARY;LANGUAGE=fr:Master SSD&WS - ABSIL
 LOCATION;LANGUAGE=fr:003
-DESCRIPTION;LANGUAGE=fr:Matière : Master SSD&WS\nEnseignant : ABS - ABSIL R
- omain\nSalle : 003\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : Master SSD&WS<br/>Enseignant : ABS -
-  ABSIL Romain<br/>Salle : 003<br/>
+DESCRIPTION;LANGUAGE=fr:Matière : Master SSD&WS\nEnseignant : ABSIL\nSalle 
+ : 003\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Master SSD&WS<br/>Enseignant : ABSIL
+ <br/>Salle : 003<br/>
 END:VEVENT
 END:VCALENDAR

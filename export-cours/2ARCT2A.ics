@@ -3,10 +3,11 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
 X-CALSTART:20260914T000000Z
-X-CALEND:20261031T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - 2ARCT2A - du 14 septembre au 31 octobre 2026
+X-CALEND:20261107T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - 2ARCT2A - du 14 septembre au 07 novembre 202
+ 6
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 2ARCT2A généré par le logiciel 
- HP (©INDEX ÉDUCATION) le 07 sept. 2026 - Haute Ecole Bruxelles Brabant - D
- épartement Informatique - valable sur la période du 14 septembre au 31 oct
- obre 2026 - Semaines : semaine 38 - 44
+ HP (©INDEX ÉDUCATION) le 12 sept. 2026 - Haute Ecole Bruxelles Brabant - D
+ épartement Informatique - valable sur la période du 14 septembre au 07 nov
+ embre 2026 - Semaines : semaine 38 - 45
 END:VCALENDAR

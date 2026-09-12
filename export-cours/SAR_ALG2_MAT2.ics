@@ -3,11 +3,11 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
 X-CALSTART:20260914T000000Z
-X-CALEND:20261031T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - SAR ALG2 MAT2 - du 14 septembre au 31 octobr
- e 2026
+X-CALEND:20261107T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - SAR ALG2 MAT2 - du 14 septembre au 07 novemb
+ re 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de SAR ALG2 MAT2 généré par le log
- iciel HP (©INDEX ÉDUCATION) le 07 sept. 2026 - Haute Ecole Bruxelles Braba
+ iciel HP (©INDEX ÉDUCATION) le 12 sept. 2026 - Haute Ecole Bruxelles Braba
  nt - Département Informatique - valable sur la période du 14 septembre au 
- 31 octobre 2026 - Semaines : semaine 38 - 44
+ 07 novembre 2026 - Semaines : semaine 38 - 45
 END:VCALENDAR
