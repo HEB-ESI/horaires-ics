@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
-X-CALSTART:20260914T000000Z
-X-CALEND:20261031T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - 4DEVT4RI - du 14 septembre au 31 octobre 202
- 6
+X-CALSTART:20260921T000000Z
+X-CALEND:20261107T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - 4DEVT4RI - du 21 septembre au 07 novembre 20
+ 26
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 4DEVT4RI généré par le logiciel
   HP (©INDEX ÉDUCATION) le 22 sept. 2026 - Haute Ecole Bruxelles Brabant - 
- Département Informatique - valable sur la période du 14 septembre au 31 oc
- tobre 2026 - Semaines : semaine 38 - 44
+ Département Informatique - valable sur la période du 21 septembre au 07 no
+ vembre 2026 - Semaines : semaine 39 - 45
 END:VCALENDAR
