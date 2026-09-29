@@ -3,11 +3,19 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
 X-CALSTART:20260914T000000Z
-X-CALEND:20261024T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - SAR 2DON1A - du 14 septembre au 24 octobre 2
+X-CALEND:20261031T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - SAR 2DON1A - du 14 septembre au 31 octobre 2
  026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de SAR 2DON1A généré par le logici
- el HP (©INDEX ÉDUCATION) le 23 sept. 2026 - Haute Ecole Bruxelles Brabant 
- - Département Informatique - valable sur la période du 14 septembre au 24 
- octobre 2026 - Semaines : semaine 38 - 43
+ el HP (©INDEX ÉDUCATION) le 29 sept. 2026 - Haute Ecole Bruxelles Brabant 
+ - Département Informatique - valable sur la période du 14 septembre au 31 
+ octobre 2026 - Semaines : semaine 38 - 44
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260929T083815Z
+UID:Ferie-75-SAR_2DON1A-Index-Education
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261101
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
 END:VCALENDAR
