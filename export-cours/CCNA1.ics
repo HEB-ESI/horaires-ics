@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
+METHOD:PUBLISH
+X-CALSTART:20260914T000000Z
+X-CALEND:20261024T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CCNA1 - du 14 septembre au 24 octobre 2026
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CCNA1 généré par le logiciel HP
+  (©INDEX ÉDUCATION) le 12 oct. 2026 - Haute Ecole Bruxelles Brabant - Dépa
+ rtement Informatique - valable sur la période du 14 septembre au 24 octobr
+ e 2026 - Semaines : semaine 38 - 43
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20261012T081455Z
+LAST-MODIFIED:20261012T081348Z
+UID:Cours-5084-6-CCNA1-Index-Education
+DTSTART:20261022T104500Z
+DTEND:20261022T114500Z
+SUMMARY;LANGUAGE=fr:CCNA1 - ABE - BELFKIH Abderrahmen
+LOCATION;LANGUAGE=fr:401\, 403\, 404\, 405
+DESCRIPTION;LANGUAGE=fr:Matière : CCNA1\nEnseignant : ABE - BELFKIH Abderra
+ hmen\nSalles : 401\, 403\, 404\, 405\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : CCNA1<br/>Enseignant : ABE - BELFKIH
+  Abderrahmen<br/>Salles : 401\, 403\, 404\, 405<br/>
+END:VEVENT
+END:VCALENDAR
