@@ -3,11 +3,19 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
 X-CALSTART:20260914T000000Z
-X-CALEND:20261024T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - 4DOPL1DR - du 14 septembre au 24 octobre 202
- 6
+X-CALEND:20261107T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - 4DOPL1DR - du 14 septembre au 07 novembre 20
+ 26
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 4DOPL1DR généré par le logiciel
-  HP (©INDEX ÉDUCATION) le 12 oct. 2026 - Haute Ecole Bruxelles Brabant - D
- épartement Informatique - valable sur la période du 14 septembre au 24 oct
- obre 2026 - Semaines : semaine 38 - 43
+  HP (©INDEX ÉDUCATION) le 15 oct. 2026 - Haute Ecole Bruxelles Brabant - D
+ épartement Informatique - valable sur la période du 14 septembre au 07 nov
+ embre 2026 - Semaines : semaine 38 - 45
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20261015T125857Z
+UID:Ferie-75-4DOPL1DR-Index-Education
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261103
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
 END:VCALENDAR

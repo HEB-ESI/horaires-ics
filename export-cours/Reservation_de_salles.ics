@@ -3,11 +3,19 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
 X-CALSTART:20260914T000000Z
-X-CALEND:20261024T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - Réservation de salles - du 14 septembre au 2
- 4 octobre 2026
+X-CALEND:20261107T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - Réservation de salles - du 14 septembre au 0
+ 7 novembre 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Réservation de salles généré pa
- r le logiciel HP (©INDEX ÉDUCATION) le 12 oct. 2026 - Haute Ecole Bruxelle
+ r le logiciel HP (©INDEX ÉDUCATION) le 15 oct. 2026 - Haute Ecole Bruxelle
  s Brabant - Département Informatique - valable sur la période du 14 septem
- bre au 24 octobre 2026 - Semaines : semaine 38 - 43
+ bre au 07 novembre 2026 - Semaines : semaine 38 - 45
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20261015T125857Z
+UID:Ferie-75-Reservation_de_salles-Index-Education
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261103
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
 END:VCALENDAR
