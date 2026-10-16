@@ -7,12 +7,12 @@ X-CALEND:20261107T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 3GEST1D - du 14 septembre au 07 novembre 202
  6
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 3GEST1D généré par le logiciel 
- HP (©INDEX ÉDUCATION) le 15 oct. 2026 - Haute Ecole Bruxelles Brabant - Dé
+ HP (©INDEX ÉDUCATION) le 16 oct. 2026 - Haute Ecole Bruxelles Brabant - Dé
  partement Informatique - valable sur la période du 14 septembre au 07 nove
  mbre 2026 - Semaines : semaine 38 - 45
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20261015T125857Z
+DTSTAMP:20261016T083120Z
 UID:Ferie-75-3GEST1D-Index-Education
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261103

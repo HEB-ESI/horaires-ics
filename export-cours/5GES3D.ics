@@ -6,12 +6,12 @@ X-CALSTART:20260914T000000Z
 X-CALEND:20261107T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 5GES3D - du 14 septembre au 07 novembre 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 5GES3D généré par le logiciel H
- P (©INDEX ÉDUCATION) le 15 oct. 2026 - Haute Ecole Bruxelles Brabant - Dép
+ P (©INDEX ÉDUCATION) le 16 oct. 2026 - Haute Ecole Bruxelles Brabant - Dép
  artement Informatique - valable sur la période du 14 septembre au 07 novem
  bre 2026 - Semaines : semaine 38 - 45
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20261015T125857Z
+DTSTAMP:20261016T083121Z
 UID:Ferie-75-5GES3D-Index-Education
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261103

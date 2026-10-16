@@ -7,12 +7,12 @@ X-CALEND:20261107T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 3OMA1RI (tte la journée) - du 14 septembre a
  u 07 novembre 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 3OMA1RI (tte la journée) généré
-  par le logiciel HP (©INDEX ÉDUCATION) le 15 oct. 2026 - Haute Ecole Bruxe
+  par le logiciel HP (©INDEX ÉDUCATION) le 16 oct. 2026 - Haute Ecole Bruxe
  lles Brabant - Département Informatique - valable sur la période du 14 sep
  tembre au 07 novembre 2026 - Semaines : semaine 38 - 45
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20261015T125857Z
+DTSTAMP:20261016T083120Z
 UID:Ferie-75-3OMA1RI_(tte_la_journee)-Index-Education
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261103
