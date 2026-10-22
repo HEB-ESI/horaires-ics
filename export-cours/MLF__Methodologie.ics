@@ -3,16 +3,16 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
 X-CALSTART:20260914T000000Z
-X-CALEND:20261219T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - MLF / Méthodologie - du 14 septembre au 19 d
+X-CALEND:20261212T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - MLF / Méthodologie - du 14 septembre au 12 d
  écembre 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de MLF / Méthodologie généré par l
- e logiciel HP (©INDEX ÉDUCATION) le 19 oct. 2026 - Haute Ecole Bruxelles B
+ e logiciel HP (©INDEX ÉDUCATION) le 22 oct. 2026 - Haute Ecole Bruxelles B
  rabant - Département Informatique - valable sur la période du 14 septembre
-  au 19 décembre 2026 - Semaines : semaine 38 - 51
+  au 12 décembre 2026 - Semaines : semaine 38 - 50
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20261019T112259Z
+DTSTAMP:20261022T065731Z
 UID:Ferie-75-MLF__Methodologie-Index-Education
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261103
@@ -20,7 +20,7 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20261019T112259Z
+DTSTAMP:20261022T065731Z
 UID:Ferie-76-MLF__Methodologie-Index-Education
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112

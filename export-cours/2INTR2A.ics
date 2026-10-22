@@ -3,16 +3,16 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
 X-CALSTART:20260914T000000Z
-X-CALEND:20261219T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - 2INTR2A - du 14 septembre au 19 décembre 202
+X-CALEND:20261212T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - 2INTR2A - du 14 septembre au 12 décembre 202
  6
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 2INTR2A généré par le logiciel 
- HP (©INDEX ÉDUCATION) le 19 oct. 2026 - Haute Ecole Bruxelles Brabant - Dé
- partement Informatique - valable sur la période du 14 septembre au 19 déce
- mbre 2026 - Semaines : semaine 38 - 51
+ HP (©INDEX ÉDUCATION) le 22 oct. 2026 - Haute Ecole Bruxelles Brabant - Dé
+ partement Informatique - valable sur la période du 14 septembre au 12 déce
+ mbre 2026 - Semaines : semaine 38 - 50
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20261019T112258Z
+DTSTAMP:20261022T065730Z
 UID:Ferie-75-2INTR2A-Index-Education
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261103
@@ -20,7 +20,7 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20261019T112258Z
+DTSTAMP:20261022T065730Z
 UID:Ferie-76-2INTR2A-Index-Education
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
