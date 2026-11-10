@@ -7,12 +7,12 @@ X-CALEND:20261219T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - SAR - Présentation des cours - du 14 septemb
  re au 19 décembre 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de SAR - Présentation des cours gé
- néré par le logiciel HP (©INDEX ÉDUCATION) le 09 nov. 2026 - Haute Ecole B
+ néré par le logiciel HP (©INDEX ÉDUCATION) le 10 nov. 2026 - Haute Ecole B
  ruxelles Brabant - Département Informatique - valable sur la période du 14
   septembre au 19 décembre 2026 - Semaines : semaine 38 - 51
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20261109T115417Z
+DTSTAMP:20261110T154508Z
 UID:Ferie-75-SAR_-_Presentation_des_cours-Index-Education
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261103
@@ -20,7 +20,7 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20261109T115417Z
+DTSTAMP:20261110T154508Z
 UID:Ferie-76-SAR_-_Presentation_des_cours-Index-Education
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
