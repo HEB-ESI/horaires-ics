@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
+METHOD:PUBLISH
+X-CALSTART:20260914T000000Z
+X-CALEND:20261219T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - pré-présentations stages Q1 - du 14 septembr
+ e au 19 décembre 2026
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de pré-présentations stages Q1 gén
+ éré par le logiciel HP (©INDEX ÉDUCATION) le 16 nov. 2026 - Haute Ecole Br
+ uxelles Brabant - Département Informatique - valable sur la période du 14 
+ septembre au 19 décembre 2026 - Semaines : semaine 38 - 51
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20261116T111915Z
+LAST-MODIFIED:20261022T094033Z
+UID:Cours-5118-10-pre-presentations_stages_Q1-Index-Education
+DTSTART:20261119T071500Z
+DTEND:20261119T091500Z
+SUMMARY;LANGUAGE=fr:pré-présentations stages Q1 - BCH - CHOQUET Benoît
+LOCATION;LANGUAGE=fr:105
+DESCRIPTION;LANGUAGE=fr:Matière : pré-présentations stages Q1\nEnseignant :
+  BCH - CHOQUET Benoît\nSalle : 105\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : pré-présentations stages Q1<br/>Ense
+ ignant : BCH - CHOQUET Benoît<br/>Salle : 105<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20261116T111915Z
+UID:Ferie-75-pre-presentations_stages_Q1-Index-Education
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261103
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20261116T111915Z
+UID:Ferie-76-pre-presentations_stages_Q1-Index-Education
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+END:VCALENDAR
